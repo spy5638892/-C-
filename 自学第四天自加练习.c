@@ -6,7 +6,7 @@ int add(int a , int b){
 #define Jks 300
 
 
-
+//先加后用++a，先用后加a++，只要用过，下一行一定加1；
 
 int main()
 {
